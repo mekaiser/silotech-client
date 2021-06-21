@@ -1,0 +1,14 @@
+.google-signin {
+  margin-top: 10em;
+}
+.google-signin-btn {
+  background-color: tomato;
+  border: none;
+  padding: 1em 2em;
+  font-size: 18px;
+  font-weight: 700;
+}
+.google-signin-btn:hover,
+.google-signin-btn:focus {
+  background-color: #363958;
+}

@@ -1,0 +1,19 @@
+.admin {
+  display: flex;
+  justify-content: center;
+}
+.admin-btn {
+  background-color: tomato;
+  border: none;
+  font-weight: 600;
+}
+.admin-btn:hover,
+.admin-btn:focus {
+  background-color: #363958;
+}
+.manage-product-title {
+  font-weight: 600;
+  background-color: #e2e5ed;
+  padding: 0.8em 0;
+  border-radius: 0.2em;
+}

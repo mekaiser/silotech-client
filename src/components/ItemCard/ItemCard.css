@@ -1,0 +1,36 @@
+.card-style {
+  width: 30%;
+  margin: 1em;
+  border-radius: 1em;
+  border: none;
+}
+.card-img-custom {
+  padding: 2em 2em 0 2em;
+}
+.price-and-buy-now {
+  font-size: 1.4em;
+  margin-top: 1.2em;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.price {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.buy-now-btn {
+  background-color: tomato;
+  border: none;
+  font-weight: 600;
+}
+.buy-now-btn:hover,
+.buy-now-btn:focus {
+  background-color: #363958;
+}
+.buy-now-router-link {
+  color: white;
+}
+.buy-now-router-link:hover {
+  color: white;
+  text-decoration: none;
+}

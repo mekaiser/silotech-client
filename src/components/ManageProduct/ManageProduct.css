@@ -1,0 +1,13 @@
+.manage-product-each {
+  font-weight: 500;
+  padding: 0.8em 0;
+}
+.manage-product-del-btn {
+  background-color: tomato;
+  border: none;
+  font-weight: 600;
+}
+.manage-product-del-btn:hover,
+.manage-product-del-btn:focus {
+  background-color: #363958;
+}

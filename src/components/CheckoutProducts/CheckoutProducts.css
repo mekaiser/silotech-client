@@ -1,0 +1,13 @@
+.ordered-product-each {
+  font-weight: 500;
+  padding: 0.8em 0;
+}
+.checkout-btn {
+  background-color: tomato;
+  border: none;
+  font-weight: 600;
+}
+.checkout-btn:hover,
+.checkout-btn:focus {
+  background-color: #363958;
+}

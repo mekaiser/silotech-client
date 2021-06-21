@@ -1,0 +1,38 @@
+.navbar-brand-custom {
+  font-size: 26px;
+  font-weight: bold;
+  color: #363958 !important;
+}
+.navbar-brand-custom:hover {
+  text-decoration: none;
+}
+.nav-link-custom {
+  font-size: 18px;
+  font-weight: 700;
+  text-decoration: none;
+  color: #3c3c3c !important;
+}
+.nav-link-custom:hover {
+  text-decoration: none;
+}
+.login-btn {
+  background-color: tomato;
+  border: none;
+  padding-left: 1em;
+  padding-right: 1em;
+  font-size: 18px;
+  font-weight: 700;
+}
+.login-btn:hover,
+.login-btn:focus {
+  background-color: #363958;
+}
+.login-btn-text {
+  text-decoration: none;
+  color: white;
+}
+.login-btn-text:hover,
+.login-btn-text:focus {
+  text-decoration: none;
+  color: white;
+}
