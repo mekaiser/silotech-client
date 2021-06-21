@@ -34,7 +34,7 @@ const AddProduct = () => {
       });
   };
   const handleSubmit = (e) => {
-    const url = `http://localhost:5000/addProduct`;
+    const url = `https://nameless-spire-32810.herokuapp.com/addProduct`;
 
     fetch(url, {
       method: "POST",

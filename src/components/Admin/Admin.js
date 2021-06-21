@@ -16,7 +16,7 @@ const Admin = () => {
   const [productsLength, setProductsLength] = useState(products?.length);
   
     useEffect(() => {
-        fetch('http://localhost:5000/products')
+        fetch('https://nameless-spire-32810.herokuapp.com/products')
         .then(res => res.json())
         .then(data => {
           setProducts(data);

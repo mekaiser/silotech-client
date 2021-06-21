@@ -9,7 +9,7 @@ const ManageProduct = (props) => {
   const [productID, setProductID] = useState('');
 
   useEffect(() => {
-    fetch(`http://localhost:5000/deleteProduct/${productID}`, {
+    fetch(`https://nameless-spire-32810.herokuapp.com/deleteProduct/${productID}`, {
       method: "DELETE",
     })
       .then((res) => res.json())
