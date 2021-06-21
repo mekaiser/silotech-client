@@ -4,4 +4,4 @@ Silotech is a dynamic ecommerce website for computer/PC related things. User can
 
 ## Live sire
 
-visit:
+visit: https://silotech-shop.web.app/
