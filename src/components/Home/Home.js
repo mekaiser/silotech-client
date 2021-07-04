@@ -22,9 +22,11 @@ const Home = () => {
       <Header></Header>
       {productLoaded ? (
         <section className="container item-cards">
+          <div className="row">
           {products?.map((product) => (
             <ItemCard key={product.id} product={product}></ItemCard>
           ))}
+          </div>
         </section>
       ) : (
         <Spinner className="mt-5" animation="border" role="status">
