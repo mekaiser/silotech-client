@@ -1,6 +1,6 @@
 # SILOTECH
 
-![SILOTECH](https://raw.githubusercontent.com/mekaiser/enfix-client/main/src/images/enfix.png)
+![SILOTECH](https://raw.githubusercontent.com/mekaiser/silotech-client/main/src/images/silotech-git-cover.png)
 
 Silotech is a dynamic ecommerce website for computer/PC accessories.
 
