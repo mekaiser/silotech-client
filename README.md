@@ -12,7 +12,7 @@ Silotech is a dynamic ecommerce website for computer/PC accessories where a user
 - Admin can add services or delete services.
 - Firebase authentication & hosting.
 
-## MADE WITH
+## KEY TECHNOLOGY
 
 - React
 - React Bootstrap
