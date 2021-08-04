@@ -17,10 +17,9 @@ Silotech is a dynamic ecommerce website for computer/PC accessories where a user
 - React
 - React Bootstrap
 - Firebase
-- Express JS
+- ExpressJS
 - MongoDB
 - Bootstrap5
-- Heroku
 
 ### `LIVE SITE:` [SILOTECH](https://silotech-shop.web.app/)
 
