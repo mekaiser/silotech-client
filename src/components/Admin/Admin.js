@@ -23,7 +23,6 @@ const Admin = () => {
     fetch("https://nameless-spire-32810.herokuapp.com/isAdmin?email=" + loggedInUser.email)
       .then((res) => res.json())
       .then((data) => {
-        console.log("admin good?", data);
         setIsAdmin(data);
         setSpinner(false);
       });

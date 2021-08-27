@@ -14,7 +14,6 @@ const AddProduct = () => {
     const newProductInfo = { ...ProductInfo };
     newProductInfo[e.target.name] = e.target.value;
     setProductInfo(newProductInfo);
-    console.log(newProductInfo);
   };
   const handleImageUpload = (e) => {
     const imageData = new FormData();
@@ -26,7 +25,6 @@ const AddProduct = () => {
       .then(function (response) {
         const newProductInfo = { ...ProductInfo };
         newProductInfo["imgURL"] = response.data.data.display_url;
-        console.log(response.data.data.display_url);
         setProductInfo(newProductInfo);
       })
       .catch(function (error) {
@@ -43,7 +41,6 @@ const AddProduct = () => {
     })
       .then((res) => res.json())
       .then((data) => {
-        console.log("server side response", data);
         const blankProductInfo = {
           name: "",
           id: "",

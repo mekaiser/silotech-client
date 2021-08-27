@@ -15,7 +15,6 @@ const Shipment = () => {
   const handleBlur = (e) => {
     const newShipment = { ...shipment };
     newShipment[e.target.name] = e.target.value;
-    console.log(newShipment);
     setShipment(newShipment);
   };
   const handleSubmit = (e) => {
