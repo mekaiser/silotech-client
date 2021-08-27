@@ -1,12 +1,47 @@
 Corsair H115i Cooler
+101
+12000
+
 Corsair HS35 Headphone
+102
+3500
+
 Corsair 16GB Ram
+103
+5600
+
 D-Link 2750U Router
+104
+7200
+
 Hp 15.6inch Laptop
+105
+72000
+
 Logitech G402 Mouse
+106
+5500
+
 Microlab 106BT Speaker
+107
+3200
+
 MSI X470 Motherboard
+108
+18000
+
 Razer RGB Keyboard
+109
+12000
+
 RTX 3060 Ti GPU
+110
+52000
+
 Ryzen 7 3700X CPU
+111
+27500
+
 SAMSUNG 22inch Monitor
+112
+12000
