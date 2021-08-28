@@ -2,7 +2,7 @@
 
 ![SILOTECH](https://raw.githubusercontent.com/mekaiser/silotech-client/main/src/images/silotech-git-cover.png)
 
-Silotech is a dynamic ecommerce website for computer/PC accessories where a user can order his/her desired product(s).
+Silotech is a dynamic e-commerce website for computer/PC accessories where users can order their desired product(s) after completing the login process.
 
 ## FEATURES
 
